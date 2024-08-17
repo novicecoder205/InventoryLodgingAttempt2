@@ -1,0 +1,67 @@
+com.rkpandey.roomdatabase.app-savedstate-ktx-1.2.1-0 C:\Users\USER\.gradle\caches\transforms-3\116909973c20d76c6228c80f900878b6\transformed\savedstate-ktx-1.2.1\res
+com.rkpandey.roomdatabase.app-room-ktx-2.6.1-1 C:\Users\USER\.gradle\caches\transforms-3\13c42bdacc202e05ddd39fea5918e74d\transformed\room-ktx-2.6.1\res
+com.rkpandey.roomdatabase.app-profileinstaller-1.3.1-2 C:\Users\USER\.gradle\caches\transforms-3\167cd05ff20a49a14bbe359a707cda07\transformed\profileinstaller-1.3.1\res
+com.rkpandey.roomdatabase.app-ui-geometry-release-3 C:\Users\USER\.gradle\caches\transforms-3\19d3c374c4d3851b90af7c8ee298f550\transformed\ui-geometry-release\res
+com.rkpandey.roomdatabase.app-navigation-runtime-ktx-2.7.5-4 C:\Users\USER\.gradle\caches\transforms-3\1e062f0c5f7f1717089efe024fc1385d\transformed\navigation-runtime-ktx-2.7.5\res
+com.rkpandey.roomdatabase.app-core-1.12.0-5 C:\Users\USER\.gradle\caches\transforms-3\2447b8c1cd37cd6eb78717eafe9863a5\transformed\core-1.12.0\res
+com.rkpandey.roomdatabase.app-lifecycle-viewmodel-ktx-2.8.4-6 C:\Users\USER\.gradle\caches\transforms-3\265b195b52f57aef73e2b3506009f313\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.rkpandey.roomdatabase.app-material3-1.0.0-7 C:\Users\USER\.gradle\caches\transforms-3\297bfc3f5cd053c4f79705826a3ee115\transformed\material3-1.0.0\res
+com.rkpandey.roomdatabase.app-core-1.5.0-8 C:\Users\USER\.gradle\caches\transforms-3\30fa46543c6e478fb6560dfe8896a86e\transformed\core-1.5.0\res
+com.rkpandey.roomdatabase.app-lifecycle-viewmodel-savedstate-2.8.4-9 C:\Users\USER\.gradle\caches\transforms-3\352c34fb5c89da8a55534e82703e0b27\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.rkpandey.roomdatabase.app-activity-1.8.0-10 C:\Users\USER\.gradle\caches\transforms-3\35641f5e69f5563adad4994b6aa0a89f\transformed\activity-1.8.0\res
+com.rkpandey.roomdatabase.app-sqlite-framework-2.4.0-11 C:\Users\USER\.gradle\caches\transforms-3\3c50563491cec6940b17926e407c1b9f\transformed\sqlite-framework-2.4.0\res
+com.rkpandey.roomdatabase.app-appcompat-resources-1.6.1-12 C:\Users\USER\.gradle\caches\transforms-3\44b0ffa79509a7373fc4020aadf16206\transformed\appcompat-resources-1.6.1\res
+com.rkpandey.roomdatabase.app-navigation-common-2.7.5-13 C:\Users\USER\.gradle\caches\transforms-3\46d074016276ff2e0d13883a8aab07c3\transformed\navigation-common-2.7.5\res
+com.rkpandey.roomdatabase.app-tracing-perfetto-binary-1.0.0-14 C:\Users\USER\.gradle\caches\transforms-3\5f6d3ebd455a092d0f5662d43e6ca089\transformed\tracing-perfetto-binary-1.0.0\res
+com.rkpandey.roomdatabase.app-sqlite-2.4.0-15 C:\Users\USER\.gradle\caches\transforms-3\606e96dd4e62338527eadf6ea7886bb8\transformed\sqlite-2.4.0\res
+com.rkpandey.roomdatabase.app-savedstate-1.2.1-16 C:\Users\USER\.gradle\caches\transforms-3\67aef483e0e49ec9ae76622549967eed\transformed\savedstate-1.2.1\res
+com.rkpandey.roomdatabase.app-startup-runtime-1.1.1-17 C:\Users\USER\.gradle\caches\transforms-3\6b0d46a1275bb0751cb08bfa5138ed6b\transformed\startup-runtime-1.1.1\res
+com.rkpandey.roomdatabase.app-activity-ktx-1.8.0-18 C:\Users\USER\.gradle\caches\transforms-3\6c456a8f62000bff7002f2aabda37616\transformed\activity-ktx-1.8.0\res
+com.rkpandey.roomdatabase.app-material-icons-core-release-19 C:\Users\USER\.gradle\caches\transforms-3\6d6143db40191924201c1ded36b0f08a\transformed\material-icons-core-release\res
+com.rkpandey.roomdatabase.app-material-release-20 C:\Users\USER\.gradle\caches\transforms-3\715b7e08b7e2bb7dc5a0142ee6e25da7\transformed\material-release\res
+com.rkpandey.roomdatabase.app-benchmark-common-1.2.4-21 C:\Users\USER\.gradle\caches\transforms-3\739078ffeeef1b5ffd14337ff2ea1db4\transformed\benchmark-common-1.2.4\res
+com.rkpandey.roomdatabase.app-ui-unit-release-22 C:\Users\USER\.gradle\caches\transforms-3\7d4f4370b528bbd793779f803282ef45\transformed\ui-unit-release\res
+com.rkpandey.roomdatabase.app-lifecycle-viewmodel-release-23 C:\Users\USER\.gradle\caches\transforms-3\876c5a1c449a3679196a17d95437af85\transformed\lifecycle-viewmodel-release\res
+com.rkpandey.roomdatabase.app-material-ripple-release-24 C:\Users\USER\.gradle\caches\transforms-3\8ded43af199e99ed5206c1a4c864e534\transformed\material-ripple-release\res
+com.rkpandey.roomdatabase.app-coil-base-2.4.0-25 C:\Users\USER\.gradle\caches\transforms-3\9236abe381105f834e8a7e872053eae7\transformed\coil-base-2.4.0\res
+com.rkpandey.roomdatabase.app-material-icons-extended-release-26 C:\Users\USER\.gradle\caches\transforms-3\925e7da973b7217a59123fe3f02d5f0c\transformed\material-icons-extended-release\res
+com.rkpandey.roomdatabase.app-annotation-experimental-1.3.0-27 C:\Users\USER\.gradle\caches\transforms-3\937468986046d680db8a558590603192\transformed\annotation-experimental-1.3.0\res
+com.rkpandey.roomdatabase.app-lifecycle-runtime-release-28 C:\Users\USER\.gradle\caches\transforms-3\937605f57ebe95d9c21461159661dbab\transformed\lifecycle-runtime-release\res
+com.rkpandey.roomdatabase.app-ui-tooling-release-29 C:\Users\USER\.gradle\caches\transforms-3\954fab6bbba5b4f58a0d5ef4b3a5ddc4\transformed\ui-tooling-release\res
+com.rkpandey.roomdatabase.app-lifecycle-runtime-ktx-release-30 C:\Users\USER\.gradle\caches\transforms-3\95e1ebb58c0e6b3345c5bbf76560ae3d\transformed\lifecycle-runtime-ktx-release\res
+com.rkpandey.roomdatabase.app-ui-util-release-31 C:\Users\USER\.gradle\caches\transforms-3\97ca9adf6a5cbc7515d07462ed786666\transformed\ui-util-release\res
+com.rkpandey.roomdatabase.app-ui-tooling-preview-release-32 C:\Users\USER\.gradle\caches\transforms-3\9aaac805c72d5e65d61dd63646b2df87\transformed\ui-tooling-preview-release\res
+com.rkpandey.roomdatabase.app-core-ktx-1.12.0-33 C:\Users\USER\.gradle\caches\transforms-3\9d6cbbfa8a3744841c463a13aac58bf1\transformed\core-ktx-1.12.0\res
+com.rkpandey.roomdatabase.app-navigation-common-ktx-2.7.5-34 C:\Users\USER\.gradle\caches\transforms-3\b027172ee396e01b71802d3e9eebb23e\transformed\navigation-common-ktx-2.7.5\res
+com.rkpandey.roomdatabase.app-tracing-1.1.0-rc01-35 C:\Users\USER\.gradle\caches\transforms-3\b2de9f2a7af6f1cba99cce93fc48bccf\transformed\tracing-1.1.0-rc01\res
+com.rkpandey.roomdatabase.app-ui-test-manifest-1.6.0-36 C:\Users\USER\.gradle\caches\transforms-3\b35397bd1ad774473f81d2dd5c718e21\transformed\ui-test-manifest-1.6.0\res
+com.rkpandey.roomdatabase.app-emoji2-1.3.0-37 C:\Users\USER\.gradle\caches\transforms-3\b383d610e66899dca17c5da1a3734563\transformed\emoji2-1.3.0\res
+com.rkpandey.roomdatabase.app-animation-core-release-38 C:\Users\USER\.gradle\caches\transforms-3\ba33499afd7a975a1771bf4f50f75d55\transformed\animation-core-release\res
+com.rkpandey.roomdatabase.app-runtime-saveable-release-39 C:\Users\USER\.gradle\caches\transforms-3\bf17b2a57b434a05de549bfff7d3c3ec\transformed\runtime-saveable-release\res
+com.rkpandey.roomdatabase.app-core-splashscreen-1.0.1-40 C:\Users\USER\.gradle\caches\transforms-3\c33c8ec6737ea9fbea64f67d20d86dd4\transformed\core-splashscreen-1.0.1\res
+com.rkpandey.roomdatabase.app-core-runtime-2.2.0-41 C:\Users\USER\.gradle\caches\transforms-3\ca75976f750dd18e19ab232a8559974d\transformed\core-runtime-2.2.0\res
+com.rkpandey.roomdatabase.app-ui-release-42 C:\Users\USER\.gradle\caches\transforms-3\cc2a66d63366febb325cb617e609bc96\transformed\ui-release\res
+com.rkpandey.roomdatabase.app-room-runtime-2.6.1-43 C:\Users\USER\.gradle\caches\transforms-3\cc386ff57b74153581bf34f574e71adc\transformed\room-runtime-2.6.1\res
+com.rkpandey.roomdatabase.app-lifecycle-viewmodel-compose-release-44 C:\Users\USER\.gradle\caches\transforms-3\d018f95e68ef1b2f6a1169eabff5fb7c\transformed\lifecycle-viewmodel-compose-release\res
+com.rkpandey.roomdatabase.app-animation-release-45 C:\Users\USER\.gradle\caches\transforms-3\db7bf3ffe713256bc9ff5d00115ecfb2\transformed\animation-release\res
+com.rkpandey.roomdatabase.app-navigation-compose-2.7.5-46 C:\Users\USER\.gradle\caches\transforms-3\df7e71b159355dd990208dcb7c61afd1\transformed\navigation-compose-2.7.5\res
+com.rkpandey.roomdatabase.app-benchmark-macro-1.2.4-47 C:\Users\USER\.gradle\caches\transforms-3\e55e0aad0e5949546c88dd1010a96046\transformed\benchmark-macro-1.2.4\res
+com.rkpandey.roomdatabase.app-foundation-layout-release-48 C:\Users\USER\.gradle\caches\transforms-3\e58ddd8a73c77f0d3afc8de0c56fc5fe\transformed\foundation-layout-release\res
+com.rkpandey.roomdatabase.app-tracing-perfetto-1.0.0-49 C:\Users\USER\.gradle\caches\transforms-3\e76968cd25e66d4913dcc41f902d6c2e\transformed\tracing-perfetto-1.0.0\res
+com.rkpandey.roomdatabase.app-customview-poolingcontainer-1.0.0-50 C:\Users\USER\.gradle\caches\transforms-3\e955d2ad3b7fdd262da1f822c4578020\transformed\customview-poolingcontainer-1.0.0\res
+com.rkpandey.roomdatabase.app-navigation-runtime-2.7.5-51 C:\Users\USER\.gradle\caches\transforms-3\f1e66237012c0fd54fb197c2b39aec42\transformed\navigation-runtime-2.7.5\res
+com.rkpandey.roomdatabase.app-activity-compose-1.8.0-52 C:\Users\USER\.gradle\caches\transforms-3\f264e20d89a7d7f067d97793d3bc4bac\transformed\activity-compose-1.8.0\res
+com.rkpandey.roomdatabase.app-ui-text-release-53 C:\Users\USER\.gradle\caches\transforms-3\f4306581b33334968f662b6fb6ccb7b7\transformed\ui-text-release\res
+com.rkpandey.roomdatabase.app-lifecycle-livedata-core-2.8.4-54 C:\Users\USER\.gradle\caches\transforms-3\f432cf412b86e9bca6818356699cf6b8\transformed\lifecycle-livedata-core-2.8.4\res
+com.rkpandey.roomdatabase.app-ui-graphics-release-55 C:\Users\USER\.gradle\caches\transforms-3\f5d8a0dc2baf53ff2cc75e4a6fcadb52\transformed\ui-graphics-release\res
+com.rkpandey.roomdatabase.app-runtime-release-56 C:\Users\USER\.gradle\caches\transforms-3\f911e2882465ce8a85d3b17a9ea59a74\transformed\runtime-release\res
+com.rkpandey.roomdatabase.app-foundation-release-57 C:\Users\USER\.gradle\caches\transforms-3\f9443276c646768e6b7adb8e13f219eb\transformed\foundation-release\res
+com.rkpandey.roomdatabase.app-ui-tooling-data-release-58 C:\Users\USER\.gradle\caches\transforms-3\fd013062f834556cec5ea5c70136ccda\transformed\ui-tooling-data-release\res
+com.rkpandey.roomdatabase.app-lifecycle-process-2.8.4-59 C:\Users\USER\.gradle\caches\transforms-3\fd9542180f201d1bb59c086c53c4782c\transformed\lifecycle-process-2.8.4\res
+com.rkpandey.roomdatabase.app-tracing-ktx-1.1.0-rc01-60 C:\Users\USER\.gradle\caches\transforms-3\fdb34208b56629ebd1baf1d89b30e0da\transformed\tracing-ktx-1.1.0-rc01\res
+com.rkpandey.roomdatabase.app-resValues-61 C:\Users\USER\AndroidStudioProjects\Lodging Edit\InventoryLodgingAttempt1-master\app\build\generated\res\resValues\debug
+com.rkpandey.roomdatabase.app-packageDebugResources-62 C:\Users\USER\AndroidStudioProjects\Lodging Edit\InventoryLodgingAttempt1-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.rkpandey.roomdatabase.app-packageDebugResources-63 C:\Users\USER\AndroidStudioProjects\Lodging Edit\InventoryLodgingAttempt1-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.rkpandey.roomdatabase.app-merged_res-64 C:\Users\USER\AndroidStudioProjects\Lodging Edit\InventoryLodgingAttempt1-master\app\build\intermediates\merged_res\debug
+com.rkpandey.roomdatabase.app-debug-65 C:\Users\USER\AndroidStudioProjects\Lodging Edit\InventoryLodgingAttempt1-master\app\src\debug\res
+com.rkpandey.roomdatabase.app-main-66 C:\Users\USER\AndroidStudioProjects\Lodging Edit\InventoryLodgingAttempt1-master\app\src\main\res

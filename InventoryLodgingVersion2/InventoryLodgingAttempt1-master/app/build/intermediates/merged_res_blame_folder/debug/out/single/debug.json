@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_googleicon.png.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/googleicon.png"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_inventory2.png.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/inventory2.png"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/xml_backup_rules.xml.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_inventory1.png.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/inventory1.png"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/xml_data_extraction_rules.xml.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_download.png.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/download.png"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_ssricon.png.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/ssricon.png"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/drawable_facebookicon.jpg.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/drawable/facebookicon.jpg"
+    },
+    {
+        "merged": "com.rkpandey.roomdatabase.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rkpandey.roomdatabase.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

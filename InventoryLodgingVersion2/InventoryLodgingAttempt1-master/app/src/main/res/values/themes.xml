@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name ="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name ="windowSplashScreenBackground">@color/green</item>
+        <item name ="windowSplashScreenAnimatedIcon">@drawable/inventory1</item>
+        <item name ="postSplashScreenTheme">@style/Theme.RoomDatabase</item>
+
+
+    </style>
+
+    <style name="Theme.RoomDatabase" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

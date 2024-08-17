@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rkpandey.roomdatabase.app-mergeDebugResources-63:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\c33c8ec6737ea9fbea64f67d20d86dd4\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}
